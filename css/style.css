@@ -1,0 +1,47 @@
+p {border: 10px solid burlywood
+
+}
+h1{
+    position: fixed; 
+
+
+}
+
+
+* { 
+  color:blue; 
+
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.money {text-shadow: 0cap;
+
+    
+}
+
+#heaven { text-align: center;
+
+}
+p.money  {
+    color:red;
+    font-style: italic;
+}
+
+#bleach { 
+    padding: top 50px;
+    height: 200px;
+    width: 60%;
+    
+    background-color: aquamarine;
+
+}
+.p1 { 
+    font-family: "Times New Roman" , Times, serif;
+}
+
